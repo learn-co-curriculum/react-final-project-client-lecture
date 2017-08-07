@@ -17,3 +17,7 @@
 .App-intro {
   font-size: large;
 }
+
+.Navbar > a {
+  margin: 16px;
+}
